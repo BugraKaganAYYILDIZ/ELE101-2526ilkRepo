@@ -1,2 +1,2 @@
 # ELE101-2526ilkRepo
-![example_image](a.png)
+![example_image](b.png)
